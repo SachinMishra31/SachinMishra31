@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFdnM4sDYc2qg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731151332200?e=1736380800&v=beta&t=yASEVh3W3KOfYPLaRHyRTuMu4ShJ1EMEkoK8XxntwMw" alt="logo" width="100%" style="border-radius: 10px; box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.3);"/>
+
 <h1 align="center">Hi 👋, I'm SACHIN KUMAR MISHRA</h1>
 <h3 align="center">I'm Sachin Kumar Mishra, Master of Computer Applications student Alliance University in Bangalore.</h3>
 
